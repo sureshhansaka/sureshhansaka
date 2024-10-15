@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshhansaka&label=Profile%20views&color=0e75b6&style=flat" alt="sureshhansaka" /> </p>
 
----
 
 - 💬 Ask me about **React, Node.js and Java**
 
